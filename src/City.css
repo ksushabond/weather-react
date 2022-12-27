@@ -1,0 +1,39 @@
+.City h1 {
+  font-size: 35px;
+  font-weight: 100px;
+  line-height: 28px;
+  color: #878787;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.City h2 {
+  font-size: 16px;
+  color: #565454;
+  font-weight: 100px;
+  line-height: 19px;
+  margin-left: 30px;
+}
+.City li {
+  list-style-type: none;
+  color: white;
+  font-size: 16px;
+  font-weight: 100px;
+  line-height: 19px;
+}
+.City a {
+  text-decoration: none;
+  color: rgb(33, 33, 33);
+}
+.City .weather-temperature strong {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+.City .weather-temperature .units {
+  font-size: 16px;
+  position: relative;
+  top: -34px;
+
+  cursor: default;
+}

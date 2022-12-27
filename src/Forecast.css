@@ -1,0 +1,15 @@
+.Forecast {
+  margin-top: 30px;
+  text-align: center;
+}
+.Forecast .weather-forecast-date {
+  font-size: 16px;
+  color: #565454;
+}
+.Forecast .weather-forecast-temp {
+  color: white;
+  font-size: 13px;
+}
+.Forecast .weather-forecast-temp-min {
+  opacity: 0.5;
+}
