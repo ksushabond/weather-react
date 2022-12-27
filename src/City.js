@@ -32,9 +32,7 @@ export default function City() {
         <div className="col-md-4">
           <div className="weather-temperature">
             <strong>{weatherData.temperature}</strong>
-            <span className="units">
-              <a href="#">°C</a> |<a href="#">F</a>
-            </span>
+            <span className="units">°C|F</span>
           </div>
         </div>
         <div className="col-md-6">
